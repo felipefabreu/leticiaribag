@@ -30,5 +30,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist",
+  "homepage": "http://felipefabreu.github.io",
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
