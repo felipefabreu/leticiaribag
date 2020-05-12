@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/felipefabreu/leticiaribag/static/css/main.5f361e03.chunk.css",
-    "main.js": "/felipefabreu/leticiaribag/static/js/main.577554f0.chunk.js",
-    "main.js.map": "/felipefabreu/leticiaribag/static/js/main.577554f0.chunk.js.map",
-    "runtime-main.js": "/felipefabreu/leticiaribag/static/js/runtime-main.311514b0.js",
-    "runtime-main.js.map": "/felipefabreu/leticiaribag/static/js/runtime-main.311514b0.js.map",
-    "static/js/2.f1d170e6.chunk.js": "/felipefabreu/leticiaribag/static/js/2.f1d170e6.chunk.js",
-    "static/js/2.f1d170e6.chunk.js.map": "/felipefabreu/leticiaribag/static/js/2.f1d170e6.chunk.js.map",
-    "index.html": "/felipefabreu/leticiaribag/index.html",
-    "precache-manifest.4eeb0dee5b8eda9fac577f2a585d1e64.js": "/felipefabreu/leticiaribag/precache-manifest.4eeb0dee5b8eda9fac577f2a585d1e64.js",
-    "service-worker.js": "/felipefabreu/leticiaribag/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/felipefabreu/leticiaribag/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f1d170e6.chunk.js.LICENSE.txt": "/felipefabreu/leticiaribag/static/js/2.f1d170e6.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/felipefabreu/leticiaribag/static/media/logo.5d5d9eef.svg"
+    "main.css": "/leticiaribag/static/css/main.5f361e03.chunk.css",
+    "main.js": "/leticiaribag/static/js/main.fdb1cc69.chunk.js",
+    "main.js.map": "/leticiaribag/static/js/main.fdb1cc69.chunk.js.map",
+    "runtime-main.js": "/leticiaribag/static/js/runtime-main.9306c445.js",
+    "runtime-main.js.map": "/leticiaribag/static/js/runtime-main.9306c445.js.map",
+    "static/js/2.f1d170e6.chunk.js": "/leticiaribag/static/js/2.f1d170e6.chunk.js",
+    "static/js/2.f1d170e6.chunk.js.map": "/leticiaribag/static/js/2.f1d170e6.chunk.js.map",
+    "index.html": "/leticiaribag/index.html",
+    "precache-manifest.af4098cd1a776cad85523ffd21dde20c.js": "/leticiaribag/precache-manifest.af4098cd1a776cad85523ffd21dde20c.js",
+    "service-worker.js": "/leticiaribag/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/leticiaribag/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f1d170e6.chunk.js.LICENSE.txt": "/leticiaribag/static/js/2.f1d170e6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/leticiaribag/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.311514b0.js",
+    "static/js/runtime-main.9306c445.js",
     "static/js/2.f1d170e6.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.577554f0.chunk.js"
+    "static/js/main.fdb1cc69.chunk.js"
   ]
 }
