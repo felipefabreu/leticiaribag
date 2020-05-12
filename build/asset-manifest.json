@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.160a3e3b.chunk.js",
-    "main.js.map": "/static/js/main.160a3e3b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.bb795334.js",
-    "runtime-main.js.map": "/static/js/runtime-main.bb795334.js.map",
-    "static/js/2.f1d170e6.chunk.js": "/static/js/2.f1d170e6.chunk.js",
-    "static/js/2.f1d170e6.chunk.js.map": "/static/js/2.f1d170e6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0b63fdd7a0a37f9075c9d8b5dd62e8d3.js": "/precache-manifest.0b63fdd7a0a37f9075c9d8b5dd62e8d3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f1d170e6.chunk.js.LICENSE.txt": "/static/js/2.f1d170e6.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/felipefabreu/felipefabreu.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/felipefabreu/felipefabreu.github.io/static/js/main.857ee3b1.chunk.js",
+    "main.js.map": "/felipefabreu/felipefabreu.github.io/static/js/main.857ee3b1.chunk.js.map",
+    "runtime-main.js": "/felipefabreu/felipefabreu.github.io/static/js/runtime-main.b2491b15.js",
+    "runtime-main.js.map": "/felipefabreu/felipefabreu.github.io/static/js/runtime-main.b2491b15.js.map",
+    "static/js/2.f1d170e6.chunk.js": "/felipefabreu/felipefabreu.github.io/static/js/2.f1d170e6.chunk.js",
+    "static/js/2.f1d170e6.chunk.js.map": "/felipefabreu/felipefabreu.github.io/static/js/2.f1d170e6.chunk.js.map",
+    "index.html": "/felipefabreu/felipefabreu.github.io/index.html",
+    "precache-manifest.f77154ae9a8bfba4f9093a44bb8d531e.js": "/felipefabreu/felipefabreu.github.io/precache-manifest.f77154ae9a8bfba4f9093a44bb8d531e.js",
+    "service-worker.js": "/felipefabreu/felipefabreu.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/felipefabreu/felipefabreu.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f1d170e6.chunk.js.LICENSE.txt": "/felipefabreu/felipefabreu.github.io/static/js/2.f1d170e6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/felipefabreu/felipefabreu.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb795334.js",
+    "static/js/runtime-main.b2491b15.js",
     "static/js/2.f1d170e6.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.160a3e3b.chunk.js"
+    "static/js/main.857ee3b1.chunk.js"
   ]
 }
